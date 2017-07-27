@@ -3,17 +3,20 @@
 This repository is for proof of concept code for leaking
 uninitialized GPU memory.
 
-# Requirements
+## Note
+This code is old and has not updated since the presentation.
+
+## Requirements
 * NVIDIA GPU Driver and CUDA SDK
 * Tested on Ubuntu Server 12.04 (without graphical interface)
 
-# Authors
+## Authors
 * Sangho Lee [sangho@gatech.edu](mailto:sangho@gatech.edu)
 * Youngsok Kim
 * Jangwoo Kim
 * Jong Kim
 
-# Citation
+## Citation
 ```
 @inproceedings{lee:gpu-unit-mem,
   title        = {{Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities}},
